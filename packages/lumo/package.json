@@ -23,7 +23,7 @@
   "dependencies": {
     "jszip": "2.6.1",
     "progress": "^2.0.0",
-    "request": "2.81.0"
+    "request": "2.88.2"
   },
   "bin": {
     "lumo": "./bin/lumo.js"
