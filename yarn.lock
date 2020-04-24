@@ -3667,9 +3667,10 @@ pako@~1.0.2:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.6.tgz#0101211baa70c4bca4a0f63f2206e97b7dfaf258"
 
-paredit.js@0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/paredit.js/-/paredit.js-0.3.2.tgz#2f57489cf4feed5a80a6b07f6bd61006ff1c0f75"
+paredit.js@0.3.6:
+  version "0.3.6"
+  resolved "https://registry.yarnpkg.com/paredit.js/-/paredit.js-0.3.6.tgz#c126623caa2fc972a48df3a4cbd82d234c17d4ef"
+  integrity sha512-Z97Go1ucly6XzJDWsX8g6aXKIapx610JElNEgAvOQ8DA3A5uTAzEIaPZyn3r/WskHS+HpaO17oALcy2dUsKlQA==
   dependencies:
     ace.improved ">=0.1.4"
 
